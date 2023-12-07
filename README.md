@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAWGZZ
+- 👋 Hi, I’m Adrian
 - 👀 I’m interested in ...Video Games
 - 🌱 I’m currently learning ...Full stack development 
 - 💞️ I’m looking to collaborate on ...
